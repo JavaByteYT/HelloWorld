@@ -1,6 +1,6 @@
 # Hello World
 
-Simple Hello World program written in Java for my CISS 110 class. [Youtube]https://youtu.be/cveQAoD7G40) 
+Simple Hello World program written in Java for my CISS 110 class. [Youtube video](https://youtu.be/cveQAoD7G40) 
 
 ## Usage
 
